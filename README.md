@@ -1,2 +1,0 @@
-# reconhecimento_fala
- 
